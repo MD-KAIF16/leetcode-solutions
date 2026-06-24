@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0001-two-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
