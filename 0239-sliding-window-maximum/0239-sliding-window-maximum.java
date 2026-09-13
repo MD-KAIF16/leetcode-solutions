@@ -3,14 +3,31 @@ class Solution {
 
         int n = nums.length;
 
-        // Step 1: Initialize the deque and result array
+         // ==============================
+        // DEQUE METHODS - QUICK NOTES
+        // ==============================
+
+        // peekFirst() -> Front ka element DEKHO, remove nahi hota
+        // peekLast()  -> Back ka element DEKHO, remove nahi hota
+
+        // pollFirst() -> Front ka element REMOVE karo
+        // pollLast()  -> Back ka element REMOVE karo
+
+        // offerFirst(x) -> Front mein element ADD karo
+        // offerLast(x)  -> Back mein element ADD karo
+
+        // isEmpty() -> Check karo deque empty hai ya nahi
+        // size()    -> Deque mein kitne elements hain
+
+
+// Step 1: Initialize the deque and result array-------------------------------------------------------------------------
         // Deque stores INDICES, not values
 
         Deque<Integer> deque = new ArrayDeque<>();
         int[] result = new int[n - k + 1];
 
 
-        // Step 2: Setup deque for the first k elements
+// Step 2: Setup deque for the first k elements-----------------------------------------------------------------------------
 
         for (int i = 0; i < k; i++) {
 
@@ -28,8 +45,7 @@ class Solution {
 
         result[0] = nums[deque.peekFirst()];
 
-
-        // Step 3: Process the remaining elements
+// Step 3: Process the remaining elements--------------------------------------------------------------------------------
 
         for (int i = k; i < n; i++) {
 
