@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/MD-KAIF16/leetcode-solutions/tree/master/1314-matrix-block-sum) |
